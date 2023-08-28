@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hello, Welcome to Yousef Elbably's GitHub profile 👋
+### I am an Electrical electronics and communications student at Cairo University Faculty of Engineering
+- Skills: PCB design, C++, Embedded C, Arduino, HTML, CSS, JS, Node.js, and python.
+- <a href= "www.linkedin.com/in/yousef-elbably"> LinkedIn</a>
 
 <!--
 **yousefelbably/yousefelbably** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
